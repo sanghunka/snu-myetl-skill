@@ -1,0 +1,4 @@
+interface:
+  display_name: "서울대학교 eTL 학습 도우미"
+  short_description: "수강 과목·강의자료·과제·일정을 연결하는 개강 준비와 학기 관리 도우미"
+  default_prompt: "$snu-myetl-skill 이번 학기 수강 과목별 폴더를 만들고 강의계획서와 공개 자료를 정리해줘."

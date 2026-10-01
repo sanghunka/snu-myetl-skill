@@ -1,0 +1,17 @@
+# 개인 인증정보
+.env
+.env.*
+!.env.example
+
+# 실행 결과와 개인 자료
+.snu-myetl/
+학업/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# 가상환경
+.venv/
+
+# 로컬 시연 계획
+/시연 시나리오.md
